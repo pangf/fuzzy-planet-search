@@ -3,6 +3,6 @@
 ## html css jquery AJAX php boostrap
 
 ## screenshots
-![](screenshot/pic1.png)
+![](screenshots/pic1.png)
 
-![](screenshot/pic2.png)
+![](screenshots/pic2.png)
